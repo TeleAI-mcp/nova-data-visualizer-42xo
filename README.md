@@ -1,2 +1,3 @@
-# nova-data-visualizer-42xo
+# Nova Data Visualizer 42Xo
+
 Automated issue comment bot repository.
